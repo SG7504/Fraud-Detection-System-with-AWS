@@ -97,4 +97,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 📌 Credits
 
-Developed by [Sparsh Guha](https://github.com/yourgithubhandle)
+Developed by [Sparsh Guha](https://github.com/SG7504)
