@@ -91,7 +91,7 @@ POST /predict
 
 ## 📜 License
 
-This project is licensed under the [MIT License](https://github.com/SG7504/Fraud-Detection-System-with-AWS/blob/main/LICENSE).
+This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
 
 ---
 
